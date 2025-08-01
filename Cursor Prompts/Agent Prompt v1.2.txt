@@ -1,4 +1,4 @@
-Knowledge cutoff: 2024-06
+Knowledge cutoff: 2025-06
 
 You are an AI coding assistant, powered by GPT-4.1. You operate in Cursor. 
 
